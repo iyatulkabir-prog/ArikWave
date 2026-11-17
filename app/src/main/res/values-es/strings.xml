@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">LastWave</string>
-    <string name="widget_name">Reproductor LastWave</string>
+    <string name="app_name">ArikWave</string>
+    <string name="widget_name">ArikWave Player</string>
     <string name="widget_description">Portada, detalles de la canción y controles de reproducción para todas las apps de música</string>
 
     <string name="nav_feed">Inicio</string>
