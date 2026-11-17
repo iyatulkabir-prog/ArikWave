@@ -95,3 +95,11 @@ reference apk/
 
 320kbps-addon/
 plan.md
+# ArikWave local environment and credentials
+.env
+.env.*
+!.env.example
+*.jks
+*.keystore
+*.p12
+*.pfx
