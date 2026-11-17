@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">LastWave</string>
-    <string name="widget_name">Trình phát LastWave</string>
+    <string name="app_name">ArikWave</string>
+    <string name="widget_name">ArikWave Player</string>
     <string name="widget_description">Ảnh bìa, thông tin bài hát và nút điều khiển phát cho mọi ứng dụng nhạc</string>
     <string name="widget_obsidian_name">LastWave Kính Obsidian</string>
     <string name="widget_obsidian_description">Trình phát kính obsidian mờ với độ sâu trong suốt và viền pha lê</string>
